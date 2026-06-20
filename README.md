@@ -50,6 +50,15 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 
 ## Project Screenshots
 
+### Business Problem 
+![Business_Problem](wind_energy.png)
+
+### Train RMSE & Test RMSE
+![RMSE](Train_Test_RMSE.png)
+
+### R2Score
+![R2Score](R2Score.png)
+
 ### Actual vs Predicted Values
 ![Prediction](Screenshot(10).png)
 
