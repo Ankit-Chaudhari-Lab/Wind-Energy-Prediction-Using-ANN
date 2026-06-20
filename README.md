@@ -48,3 +48,10 @@ The ANN model achieved over 90% R² on the test dataset, demonstrating strong pr
 ### Ankit
 Aspiring Data Scientist | Machine Learning Enthusiast
 
+## Project Screenshots
+
+### Actual vs Predicted Values
+![Prediction](Screenshot(10).png)
+
+### Conclusion
+![Conclusion](Screenshot(9).png)
